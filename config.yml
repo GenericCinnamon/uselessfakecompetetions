@@ -1,0 +1,9 @@
+players:
+    Steve:
+        max: 10
+    Luke: 
+        max: 10
+    Nathan: 
+        max: 999
+
+measure: pushup
